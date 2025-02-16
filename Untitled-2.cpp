@@ -10,8 +10,8 @@ class player {
     }
 };
 int main(){
-    player a;
-    a.movement(10,12);
-    a.damage(1,2);
+    player b;
+    b.movement(10,12);
+    b.damage(1,2);
 
 }
